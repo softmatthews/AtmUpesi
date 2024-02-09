@@ -1,0 +1,17 @@
+D:\Upesi\AtmUpsi\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Upesi\AtmUpsi\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upesi\AtmUpsi\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Upesi\AtmUpsi\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Upesi\AtmUpsi\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Upesi\AtmUpsi\Application\bin\Debug\net8.0\Application.deps.json
+D:\Upesi\AtmUpsi\Application\bin\Debug\net8.0\Application.dll
+D:\Upesi\AtmUpsi\Application\bin\Debug\net8.0\Application.pdb
+D:\Upesi\AtmUpsi\Application\bin\Debug\net8.0\Domain.dll
+D:\Upesi\AtmUpsi\Application\bin\Debug\net8.0\System.Reactive.dll
+D:\Upesi\AtmUpsi\Application\bin\Debug\net8.0\Domain.pdb
+D:\Upesi\AtmUpsi\Application\bin\Debug\net8.0\System.Reactive.xml
+D:\Upesi\AtmUpsi\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+D:\Upesi\AtmUpsi\Application\obj\Debug\net8.0\Application.dll
+D:\Upesi\AtmUpsi\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Upesi\AtmUpsi\Application\obj\Debug\net8.0\Application.pdb
+D:\Upesi\AtmUpsi\Application\obj\Debug\net8.0\ref\Application.dll

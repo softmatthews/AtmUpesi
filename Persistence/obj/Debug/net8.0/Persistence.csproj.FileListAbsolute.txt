@@ -1,0 +1,17 @@
+D:\Upesi\AtmUpsi\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Upesi\AtmUpsi\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Upesi\AtmUpsi\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Upesi\AtmUpsi\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Upesi\AtmUpsi\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Upesi\AtmUpsi\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Upesi\AtmUpsi\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upesi\AtmUpsi\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Upesi\AtmUpsi\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Upesi\AtmUpsi\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Upesi\AtmUpsi\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
+D:\Upesi\AtmUpsi\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Upesi\AtmUpsi\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Upesi\AtmUpsi\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Upesi\AtmUpsi\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+D:\Upesi\AtmUpsi\persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\Upesi\AtmUpsi\persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache

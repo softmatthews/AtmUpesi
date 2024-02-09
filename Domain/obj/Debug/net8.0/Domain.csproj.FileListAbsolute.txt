@@ -1,0 +1,12 @@
+D:\Upesi\AtmUpsi\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Upesi\AtmUpsi\Domain\bin\Debug\net8.0\Domain.dll
+D:\Upesi\AtmUpsi\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Upesi\AtmUpsi\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Upesi\AtmUpsi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upesi\AtmUpsi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Upesi\AtmUpsi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Upesi\AtmUpsi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Upesi\AtmUpsi\Domain\obj\Debug\net8.0\Domain.dll
+D:\Upesi\AtmUpsi\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Upesi\AtmUpsi\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Upesi\AtmUpsi\Domain\obj\Debug\net8.0\ref\Domain.dll
